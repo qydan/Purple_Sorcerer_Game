@@ -1,2 +1,3 @@
-# Purple_Sorcerer_Game
-Text based application for ECOR1042
+# Purple Sorcerer Game
+Text based application Purple Sorcerer Game for ECOR1042.
+This application was created as part of a group project.
