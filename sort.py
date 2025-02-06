@@ -2,7 +2,7 @@
 # Remember to include docstring and type annotations for your functions
 
 # Update "" to list all students contributing to the team work
-__author__ = "Aydan Eng, Pramit Shende, Peter Abou Mrad, Nicolas Saungikar"
+__author__ = ""
 
 # Update "" with your team (e.g. T102)
 __team__ = "T-097"
